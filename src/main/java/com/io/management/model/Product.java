@@ -22,6 +22,8 @@ public class Product {
     private double price;
     private double totalProductSale;
     private int quantityLeft;
+    private double basePrice;
+    private double baseMinusSellingPrice;
     @Transient
     private int quantity;
 
@@ -32,6 +34,28 @@ public class Product {
     private String dayOfWeek;
 
     public Product() {
+    }
+
+    public Product(int productId, String productScanCode, String productName, int sunday, int monday, int tuesday, int wednesday, int thursday, int friday, int saturday, int quantitySold, double price, double totalProductSale, int quantityLeft, double basePrice, double baseMinusSellingPrice, int quantity, String searchText, String dayOfWeek) {
+        ProductId = productId;
+        this.productScanCode = productScanCode;
+        this.productName = productName;
+        this.sunday = sunday;
+        this.monday = monday;
+        this.tuesday = tuesday;
+        this.wednesday = wednesday;
+        this.thursday = thursday;
+        this.friday = friday;
+        this.saturday = saturday;
+        this.quantitySold = quantitySold;
+        this.price = price;
+        this.totalProductSale = totalProductSale;
+        this.quantityLeft = quantityLeft;
+        this.basePrice = basePrice;
+        this.baseMinusSellingPrice = baseMinusSellingPrice;
+        this.quantity = quantity;
+        this.searchText = searchText;
+        this.dayOfWeek = dayOfWeek;
     }
 
     public int getProductId() {
@@ -144,6 +168,22 @@ public class Product {
 
     public void setQuantityLeft(int quantityLeft) {
         this.quantityLeft = quantityLeft;
+    }
+
+    public double getBasePrice() {
+        return basePrice;
+    }
+
+    public void setBasePrice(double basePrice) {
+        this.basePrice = basePrice;
+    }
+
+    public double getBaseMinusSellingPrice() {
+        return baseMinusSellingPrice;
+    }
+
+    public void setBaseMinusSellingPrice(double baseMinusSellingPrice) {
+        this.baseMinusSellingPrice = baseMinusSellingPrice;
     }
 
     public int getQuantity() {

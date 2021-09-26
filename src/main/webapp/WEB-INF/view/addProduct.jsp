@@ -22,13 +22,18 @@
         </div>
 
         <div class="form-group">
-            <label for="price">Price</label>
-            <form:input path="price" id="price" class="form-Control" type="number"/>
+            <label for="price">SellingPrice</label>
+            <form:input path="price" id="price" class="form-Control"/>
+        </div>
+
+        <div class="form-group">
+            <label for="BasePrice">BasePrice</label>
+            <form:input path="basePrice" id="BasePrice" class="form-Control"/>
         </div>
 
         <div class="form-group">
             <label for="unitInStock">Unit In Stock</label>
-            <form:input path="quantityLeft" id="unitInStock" class="form-Control" type="number"/>
+            <form:input path="quantityLeft" id="unitInStock" class="form-Control"/>
         </div>
 
         <div class="form-group">
@@ -42,5 +47,5 @@
         <a href="<c:url value="/" />" class="btn btn-default">Cancel</a>
         </form:form>
 
-
+    </div>
 <%@ include file="/WEB-INF/view/template/footer.jsp"%>
