@@ -63,7 +63,7 @@
 
         <div class="form-group">
             <label for="QuantitySold">QuantitySold</label>
-            <form:input path="quantity" id="QuantitySold" class="form-Control"/>
+            <form:input path="quantity" id="QuantitySold" class="form-Control" type="number"/>
         </div>
 
         <div class="form-group">

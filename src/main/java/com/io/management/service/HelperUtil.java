@@ -61,7 +61,7 @@ public class HelperUtil {
         if(product.getDayOfWeek().equals("sunday")){
             products.setSunday(products.getSunday()!=0 ? product.getQuantity()+products.getSunday() : product.getQuantity());
         }else if(product.getDayOfWeek().equals("monday")){
-            products.setMonday(products.getMonday()!=0 ? product.getQuantity()+products.getMonday() : product.getMonday());
+            products.setMonday(products.getMonday() !=0 ? product.getQuantity()+products.getMonday() : product.getQuantity());
         }else if(product.getDayOfWeek().equals("tuesday")){
             products.setTuesday(products.getTuesday()!=0 ? product.getQuantity()+products.getTuesday() : product.getQuantity());
         }else if(product.getDayOfWeek().equals("wednesday")){

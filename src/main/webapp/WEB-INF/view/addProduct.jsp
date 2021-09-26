@@ -23,12 +23,12 @@
 
         <div class="form-group">
             <label for="price">Price</label>
-            <form:input path="price" id="price" class="form-Control"/>
+            <form:input path="price" id="price" class="form-Control" type="number"/>
         </div>
 
         <div class="form-group">
             <label for="unitInStock">Unit In Stock</label>
-            <form:input path="quantityLeft" id="unitInStock" class="form-Control"/>
+            <form:input path="quantityLeft" id="unitInStock" class="form-Control" type="number"/>
         </div>
 
         <div class="form-group">
