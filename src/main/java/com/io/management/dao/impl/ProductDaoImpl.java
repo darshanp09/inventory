@@ -1,6 +1,7 @@
 package com.io.management.dao.impl;
 
 import com.io.management.dao.ProductDao;
+import com.io.management.model.Pro;
 import com.io.management.model.Product;
 import org.hibernate.SQLQuery;
 import org.hibernate.Session;
@@ -42,6 +43,16 @@ public class ProductDaoImpl implements ProductDao {
         return products;
     }
 
+    public List<Pro> getAllReportProduct() {
+        Session session = sessionFactory.getCurrentSession();
+        Query query = session.createQuery("from products ");
+        List<Pro> products = query.list();
+        session.flush();
+
+        return products;
+    }
+
+
     public void deleteProduct(int id) {
         Session session = sessionFactory.getCurrentSession();
         session.delete(getProductById(id));
@@ -57,5 +68,13 @@ public class ProductDaoImpl implements ProductDao {
         List<Product> results = query.list();
         return results;
 
+    }
+
+    @Override
+    public void truncateData() {
+        Session session = sessionFactory.getCurrentSession();
+        String sql1 = "TRUNCATE TABLE products";
+        SQLQuery query = session.createSQLQuery(sql1);
+        query.executeUpdate();
     }
 }

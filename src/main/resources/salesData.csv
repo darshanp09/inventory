@@ -1,0 +1,3 @@
+productScanCode,productName,sunday,monday,tuesday,wednesday,thursday,friday,saturday,quantitySold,price,totalProductSale,quantityLeft,basePrice
+0,Test,0,30,0,0,0,0,0,30,1.99,59.7,40,1.0
+sc,"Lays Original",10,0,0,0,0,0,0,10,1.99,19.9,70,1.69

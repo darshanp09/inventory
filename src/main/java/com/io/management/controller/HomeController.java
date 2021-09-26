@@ -1,8 +1,10 @@
 package com.io.management.controller;
 
 import com.io.management.dao.ProductDao;
+import com.io.management.model.Pro;
 import com.io.management.model.Product;
 import com.io.management.service.HelperUtil;
+import com.io.management.service.WriteDataToCsv;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -95,5 +97,24 @@ public class HomeController {
         List<Product> products = productDao.getProductBySearch(productSearchName);
         model.addAttribute("products",products);
         return "searchProduct";
+    }
+
+    @RequestMapping("/getReport")
+    public String getReport(){
+        WriteDataToCsv writeDataToCsv = new WriteDataToCsv();
+        List<Pro> productList = productDao.getAllReportProduct();
+        try {
+            List<Product> saveDatBack = writeDataToCsv.writeDataToCsv(productList);
+
+            productDao.truncateData();
+
+            for(int i = 0 ; i< saveDatBack.size();i++){
+                Product product = saveDatBack.get(i);
+                productDao.addProduct(product);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return "redirect:/";
     }
 }

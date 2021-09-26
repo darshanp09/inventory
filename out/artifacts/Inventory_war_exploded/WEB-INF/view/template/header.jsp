@@ -35,6 +35,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>Inventory</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -123,6 +124,7 @@
 <div class="topnav">
     <a class="active" href="<c:url value="/" />">Home</a>
     <a href="<c:url value="/addProduct" />">Add Product</a>
+    <%--<a href="<c:url value="/getReport" />">GetReport</a>--%>
     <div class="search-container">
         <form action="${pageContext.request.contextPath}/searchProduct" method="get">
             <input type="text" placeholder="Search.." name="search">
