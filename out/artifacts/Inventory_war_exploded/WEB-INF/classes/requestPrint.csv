@@ -1,0 +1,310 @@
+productName,productCategory,sunday,monday,tuesday,wednesday,thursday,friday,saturday,quantitySold,price,totalProductSale,quantityLeft,basePrice
+Food,Food,0,0,117,149,0,0,0,266,1,266,9734,0
+Fountain - Medium,VendingMachine,0,0,15,15,23,0,0,53,1.69,89.57,147,0
+Carnival Box Pk,Tobaco,0,0,8,1,6,0,0,15,4.62,69.3,35,0
+Carnival Lgt Box,Tobaco,0,0,7,4,3,0,0,14,4.62,64.68,36,0
+Carnival Full,Tobaco,0,0,4,0,9,0,0,13,4.62,60.06,37,0
+Marlboro LGT 100,Tobaco,0,0,5,1,1,0,0,7,8,56,43,0
+Fizz Max WaterML,Tobaco,0,0,0,2,0,0,0,2,27.99,55.98,48,0
+Redbull 16 oz,SportsDrink,0,0,1,8,2,0,0,11,4.49,49.39,39,0
+Skydancer Lgt 100,Tobaco,0,0,6,4,0,0,0,10,4.62,46.2,40,0
+Ice Bag,VendingMachine,0,0,4,5,11,0,0,20,2.29,45.8,180,0
+Dr Pepper Pet N,Soda,0,0,5,7,11,0,0,23,1.99,45.77,27,0
+Marlboro LGT,Tobaco,0,0,1,1,3,0,0,5,8,40,45,0
+Marlboro Special LG,Tobaco,0,0,3,2,0,0,0,5,8,40,45,0
+L & M RED,Tobaco,0,0,2,1,2,0,0,5,7.49,37.45,45,0
+Marlboro Bx,Tobaco,0,0,1,3,0,0,0,4,8,32,46,0
+Marlboro Special Red,Tobaco,0,0,2,1,1,0,0,4,8,32,46,0
+Drumstick Tripple,Snacks,0,0,0,10,0,0,0,10,2.99,29.9,40,0
+Grizzly Ext LC,Tobaco,0,0,5,0,0,0,0,5,5.69,28.45,85,0
+Grizzly LC Winter Green - 5PK,Tobaco,0,0,0,0,1,0,0,1,28.45,28.45,49,0
+UNO WaterML,Tobaco,0,0,0,2,0,0,0,2,13.99,27.98,48,0
+Copenhagen Snuff,Tobaco,0,0,2,1,1,0,0,4,6.5,26,46,0
+Marlboro 100,Tobaco,0,0,2,0,1,0,0,3,8,24,47,0
+Marlboro Silver Short,Tobaco,0,0,1,0,2,0,0,3,8,24,47,0
+Fountain - Refill,VendingMachine,0,0,5,6,9,0,0,20,1.15,23,180,0
+Marlboro Black,Tobaco,0,0,0,1,2,0,0,3,7.3,21.9,47,0
+Coke 12PK,Soda,0,0,0,1,2,0,0,3,6.99,20.97,47,0
+Redbull 20 oz,SportsDrink,0,0,3,0,1,0,0,4,5.09,20.36,46,0
+Carnival Menthol Lgt,Tobaco,0,0,2,1,1,0,0,4,4.62,18.48,46,0
+CrownGold 100,Tobaco,0,0,0,4,0,0,0,4,4.62,18.48,46,0
+Grizzly LC Winter Green,Tobaco,0,0,2,0,1,0,0,3,5.69,17.07,87,0
+Gatorade Lime Cucumber,SportsDrink,0,0,7,1,1,0,0,9,1.89,17.01,41,0
+Fountain - Small,VendingMachine,0,0,4,2,5,0,0,11,1.49,16.39,189,0
+Vietnam Kraton 1 oz,Tobaco,0,0,0,0,1,0,0,1,14.99,14.99,9,0
+L & M Blue 100,Tobaco,0,0,0,0,2,0,0,2,7.49,14.98,98,0
+Redbull Single,SportsDrink,0,0,1,4,1,0,0,6,2.49,14.94,44,0
+Dr Pepper 12Pk,Soda,0,0,0,2,0,0,0,2,6.99,13.98,48,0
+Time OO,Tobaco,0,0,1,2,0,0,0,3,4.62,13.86,47,0
+5 Hour Energy,SportsDrink,0,0,1,2,0,0,0,3,3.99,11.97,47,0
+Kayak Straight,Tobaco,0,0,4,0,0,0,0,4,2.99,11.96,46,0
+Coke Glass 20 oz,Soda,0,0,3,1,2,0,0,6,1.99,11.94,44,0
+Starbucks Frap Mocha,Coffee,0,0,2,0,1,0,0,3,3.69,11.07,97,0
+Coke zero,Soda,0,0,5,0,0,0,0,5,1.99,9.95,45,0
+SUNKIST Berry Lemon,Soda,0,0,0,0,5,0,0,5,1.99,9.95,95,0
+Body Armor Orange,SportsDrink,0,0,0,0,5,0,0,5,1.99,9.95,95,0
+Redbull SF 12,SportsDrink,0,0,1,0,2,0,0,3,3.29,9.87,47,0
+Carnival Menthol,Tobaco,0,0,2,0,0,0,0,2,4.62,9.24,48,0
+Pop Rock Cotton CA,Snacks,0,0,0,2,5,0,0,7,1.29,9.03,43,0
+Small Coffee,VendingMachine,0,0,2,3,1,0,0,6,1.49,8.94,94,0
+Dasani 20 oz water,Water,0,0,1,0,4,0,0,5,1.69,8.45,45,0
+Marlboro Menthol,Tobaco,0,0,1,0,0,0,0,1,8.1,8.1,49,0
+Marlboro Smooth,Tobaco,0,0,0,0,1,0,0,1,8.1,8.1,99,0
+Marlboro 72 ULT,Tobaco,0,0,1,0,0,0,0,1,8,8,49,0
+Marlboro 27 bx,Tobaco,0,0,0,1,0,0,0,1,8,8,49,0
+Coke Vanilla,Soda,0,0,1,1,2,0,0,4,1.99,7.96,46,0
+Takies Fuego,Chips,0,0,1,2,1,0,0,4,1.99,7.96,46,0
+MRS Bairds Choc,Snacks,0,0,1,2,2,0,0,5,1.59,7.95,45,0
+Camel Silver,Tobaco,0,0,0,1,0,0,0,1,7.66,7.66,49,0
+Takies Blue Heat - big,Chips,0,0,0,1,1,0,0,2,3.79,7.58,48,0
+L & M Turk 100,Tobaco,0,0,0,1,0,0,0,1,7.49,7.49,49,0
+Gatorade Cool 32 oz,SportsDrink,0,0,2,1,0,0,0,3,2.49,7.47,47,0
+Monster Zero ULT,SportsDrink,0,0,1,2,0,0,0,3,2.49,7.47,47,0
+Slim Jim SKThouse,Snacks,0,0,0,1,0,0,0,1,7.39,7.39,9,0
+Jack Link Peppered Jerky - Big,Snacks,0,0,0,0,1,0,0,1,7.39,7.39,49,0
+Marlboro Midnight,Tobaco,0,0,1,0,0,0,0,1,7.3,7.3,49,0
+Strawberry Kiwi Toy,Candy,0,0,0,2,0,0,0,2,3.59,7.18,48,0
+Mountain Due Blue - 16 oz,Soda,0,0,1,2,1,0,0,4,1.79,7.16,96,0
+Fountain - Large,VendingMachine,0,0,0,1,3,0,0,4,1.79,7.16,9996,0
+Nestle Water,Water,0,0,3,0,5,0,0,8,0.89,7.12,42,0
+40 Pack Water,Water,0,0,0,0,1,0,0,1,6.99,6.99,9,0
+SB Toasted White Ch,Candy,0,0,0,0,2,0,0,2,3.29,6.58,48,0
+Dr Pepper AW RD 1L,Soda,0,0,2,0,1,0,0,3,2.19,6.57,47,0
+Copenhagen Min Low,Tobaco,0,0,1,0,0,0,0,1,6.5,6.5,49,0
+Copenhagen WG,Tobaco,0,0,0,1,0,0,0,1,6.5,6.5,49,0
+Copenhagen Mint Pouches,Tobaco,0,0,0,0,1,0,0,1,6.5,6.5,99,0
+PL Black Unsweet,Other,0,0,0,3,0,0,0,3,1.99,5.97,47,0
+Spaceship Squeeze,KidsDrinks,0,0,0,3,0,0,0,3,1.99,5.97,47,0
+Little Debie Browni,Snacks,0,0,4,0,0,0,0,4,1.49,5.96,46,0
+Grizzly LC,Tobaco,0,0,0,0,1,0,0,1,5.69,5.69,49,0
+Coke 16.9 oz,Soda,0,0,1,0,3,0,0,4,1.39,5.56,46,0
+Large Coffee,VendingMachine,0,0,2,1,0,0,0,3,1.79,5.37,97,0
+OKF ALoe Original,Other,0,0,0,2,0,0,0,2,2.59,5.18,48,0
+Pop Rock Green,Candy,0,0,0,0,4,0,0,4,1.29,5.16,96,0
+Ozarka Water,Water,0,0,1,0,4,0,0,5,1,5,45,0
+Pennzoil SAE 30 - oil,Other,0,0,1,0,0,0,0,1,4.99,4.99,19,0
+Rollin Trays Medium,Other,0,0,0,0,1,0,0,1,4.99,4.99,19,0
+Monster Lo CARB,SportsDrink,0,0,1,1,0,0,0,2,2.49,4.98,48,0
+Bai Puna Coconut,Juice,0,0,0,2,0,0,0,2,2.49,4.98,48,0
+Mars M & M Peanut PG,Candy,0,0,0,0,2,0,0,2,2.49,4.98,98,0
+Gatorade 28 oz,SportsDrink,0,0,0,1,1,0,0,2,2.39,4.78,98,0
+Coffee Refill,VendingMachine,0,0,1,2,1,0,0,4,1.15,4.6,96,0
+Reeses White Cup Ki,Candy,0,0,2,0,0,0,0,2,2.29,4.58,88,0
+Turtles Car Sea SaL,Candy,0,0,0,2,0,0,0,2,2.29,4.58,48,0
+ButterFingers Share Size,Candy,0,0,0,0,2,0,0,2,2.29,4.58,48,0
+NOS,SportsDrink,0,0,0,0,2,0,0,2,2.29,4.58,98,0
+Dr Pepper 16.9 oz,Soda,0,0,3,0,0,0,0,3,1.5,4.5,47,0
+Muscle Milk Pro Choco,SportsDrink,0,0,0,0,1,0,0,1,4.49,4.49,99,0
+Lipton Grn Ctrs,Tea,0,0,1,2,0,0,0,3,1.49,4.47,97,0
+Dr Pepper Can,Soda,0,0,1,2,2,0,0,5,0.89,4.45,45,0
+Hershey Pop Snack,Candy,0,0,1,0,0,0,0,1,3.99,3.99,49,0
+Monster Blue XXL,SportsDrink,0,0,1,0,0,0,0,1,3.99,3.99,49,0
+CINN TOAST Pint,Other,0,0,0,0,1,0,0,1,3.99,3.99,49,0
+Cracker.Jacks,Snacks,0,0,2,0,0,0,0,2,1.99,3.98,48,0
+Fritos,Chips,0,0,1,1,0,0,0,2,1.99,3.98,58,0
+Trop Orange Juice,Juice,0,0,1,0,1,0,0,2,1.99,3.98,78,0
+Dasani 1L water,Water,0,0,1,1,0,0,0,2,1.99,3.98,48,0
+Bolt 24 Strawberry,SportsDrink,0,0,2,0,0,0,0,2,1.99,3.98,48,0
+Dr Pepper Cream,Soda,0,0,1,0,1,0,0,2,1.99,3.98,48,0
+RC,Soda,0,0,1,0,1,0,0,2,1.99,3.98,48,0
+Dr Pepper Cherry,Soda,0,0,2,0,0,0,0,2,1.99,3.98,48,0
+Mountain Dew Diet 20,Soda,0,0,0,1,1,0,0,2,1.99,3.98,48,0
+AW root beer,Soda,0,0,0,1,1,0,0,2,1.99,3.98,48,0
+Pepsi 20 oz,Soda,0,0,0,0,2,0,0,2,1.99,3.98,48,0
+Lays FLAMIN HOT,Chips,0,0,0,0,2,0,0,2,1.99,3.98,98,0
+Brisk SWL 1L,Soda,0,0,2,1,1,0,0,4,0.99,3.96,96,0
+Gatorade Cool Blue,SportsDrink,0,0,1,0,1,0,0,2,1.89,3.78,48,0
+Thaitian Fruit PUNCH,Candy,0,0,0,1,1,0,0,2,1.89,3.78,8,0
+High Five Fruit Punch,Candy,0,0,0,0,3,0,0,3,1.25,3.75,97,0
+Starbucks Caramel,Coffee,0,0,0,0,1,0,0,1,3.69,3.69,49,0
+Jack Link Peppered,Snacks,0,0,1,0,0,0,0,1,3.59,3.59,49,0
+Fruit Punch Toy ATT,Other,0,0,0,0,1,0,0,1,3.59,3.59,99,0
+Mountain Due Throwback,Soda,0,0,1,0,1,0,0,2,1.79,3.58,98,0
+Propel Grape,SportsDrink,0,0,0,1,1,0,0,2,1.79,3.58,98,0
+Starbucks Double,Coffee,0,0,1,0,0,0,0,1,3.49,3.49,99,0
+Muscle Milk,SportsDrink,0,0,0,0,1,0,0,1,3.49,3.49,99,0
+Skittles Smoothies,KidsDrinks,0,0,1,0,1,0,0,2,1.69,3.38,48,0
+Skittles Tropical,Candy,0,0,1,0,1,0,0,2,1.69,3.38,88,0
+SM Candy Snicker,Candy,0,0,1,0,1,0,0,2,1.69,3.38,88,0
+M & M Plain Sing,Candy,0,0,0,0,2,0,0,2,1.69,3.38,58,0
+Ice Cup,VendingMachine,0,0,3,3,0,0,0,6,0.55,3.3,194,0
+RB Coconut,Juice,0,0,1,0,0,0,0,1,3.29,3.29,49,0
+Jack Link Original,Snacks,0,0,1,0,0,0,0,1,3.19,3.19,49,0
+Jack Link Teriyaki,Snacks,0,0,0,0,1,0,0,1,3.19,3.19,49,0
+Ozarka Sports Water,Water,0,0,2,0,0,0,0,2,1.59,3.18,48,0
+MRS Bairds Apple Pie,Snacks,0,0,0,0,2,0,0,2,1.59,3.18,98,0
+DayQuill,Medicine,0,0,0,0,2,0,0,2,1.59,3.18,48,0
+MB SNK BAG Choco,Candy,0,0,0,1,0,0,0,1,3.09,3.09,49,0
+Drumstick Van,Snacks,0,0,1,0,0,0,0,1,2.99,2.99,49,0
+All Weather O WNSH,Other,0,0,0,1,0,0,0,1,2.99,2.99,49,0
+Black&Mild Jazz,Tobaco,0,0,0,0,3,0,0,3,0.99,2.97,97,0
+Bang Cotton Candy,SportsDrink,0,0,1,0,0,0,0,1,2.89,2.89,49,0
+Bang Bangster Berry,SportsDrink,0,0,1,0,0,0,0,1,2.89,2.89,49,0
+Core Water,Water,0,0,1,0,0,0,0,1,2.89,2.89,29,0
+Starburst Min Sour,Candy,0,0,0,0,1,0,0,1,2.79,2.79,99,0
+Gatorlyte Orange,SportsDrink,0,0,0,0,1,0,0,1,2.79,2.79,99,0
+Coke Mexica,Soda,0,0,1,1,0,0,0,2,1.39,2.78,48,0
+Sprite 16.9 oz,Soda,0,0,0,1,1,0,0,2,1.39,2.78,48,0
+Lighter,Other,0,0,0,1,1,0,0,2,1.39,2.78,48,0
+Aloevera Fresh Water,Juice,0,0,0,1,0,0,0,1,2.69,2.69,49,0
+Starbucks Espresso Mocha,Coffee,0,0,0,0,1,0,0,1,2.69,2.69,99,0
+Combos Cheddar,Chips,0,0,1,0,0,0,0,1,2.59,2.59,89,0
+Bang Cherry,SportsDrink,0,0,0,1,0,0,0,1,2.59,2.59,49,0
+LS Gummies Wild Beer,Candy,0,0,0,0,1,0,0,1,2.59,2.59,49,0
+Combos Spicy Hon,Snacks,0,0,0,0,1,0,0,1,2.59,2.59,49,0
+Rehab white Drag,SportsDrink,0,0,0,0,1,0,0,1,2.59,2.59,99,0
+Dragon Green Tea,Tea,0,0,0,0,1,0,0,1,2.59,2.59,99,0
+Bang Star Blast,SportsDrink,0,0,0,0,1,0,0,1,2.59,2.59,99,0
+Mentos Mixed Fruit,Candy,0,0,1,0,1,0,0,2,1.29,2.58,48,0
+Cheetos Simply Puff,Chips,0,0,0,1,1,0,0,2,1.29,2.58,38,0
+Monster,SportsDrink,0,0,0,1,0,0,0,1,2.49,2.49,99,0
+Starburst Gummies,Candy,0,0,0,0,1,0,0,1,2.49,2.49,49,0
+Gatorade Cherry Zero,SportsDrink,0,0,0,0,1,0,0,1,2.49,2.49,99,0
+Gatorade Zero Berry,SportsDrink,0,0,0,0,1,0,0,1,2.49,2.49,99,0
+Gatorade Zero Glaci,SportsDrink,0,0,0,0,1,0,0,1,2.49,2.49,99,0
+Monster Red Ultra,SportsDrink,0,0,0,0,1,0,0,1,2.49,2.49,99,0
+Ice Cream Sand,Ice-Cream,0,0,0,0,1,0,0,1,2.49,2.49,99,0
+Gatorade Straw,SportsDrink,0,0,0,0,1,0,0,1,2.39,2.39,99,0
+Aquafina 16.9 oz,Water,0,0,0,0,2,0,0,2,1.19,2.38,48,0
+Lifesaver Gummies,Candy,0,0,1,0,0,0,0,1,2.29,2.29,49,0
+Starbucks Double Shot,Coffee,0,0,0,1,0,0,0,1,2.29,2.29,49,0
+Pringles Salt Vinegar,Chips,0,0,0,1,0,0,0,1,2.29,2.29,49,0
+Pringles Dill Pickle,Chips,0,0,0,1,0,0,0,1,2.29,2.29,49,0
+Pringles Parm Garli,Chips,0,0,0,1,0,0,0,1,2.29,2.29,49,0
+Air Head Bites,Candy,0,0,0,1,0,0,0,1,2.29,2.29,49,0
+Redbull,SportsDrink,0,0,0,1,0,0,0,1,2.29,2.29,49,0
+Skittles Dark - share size,Candy,0,0,0,0,1,0,0,1,2.29,2.29,99,0
+SJ GAINT SLM MONSTE,Other,0,0,0,0,1,0,0,1,2.29,2.29,49,0
+Cookies N Cream,Candy,0,0,0,0,1,0,0,1,2.29,2.29,89,0
+Reeses White Cup KI,Candy,0,0,0,0,1,0,0,1,2.29,2.29,79,0
+Reeses Chispy,Candy,0,0,0,0,1,0,0,1,2.29,2.29,49,0
+Pringles Ranch,Snacks,0,0,0,0,1,0,0,1,2.29,2.29,49,0
+M & M Peanut - share size,Candy,0,0,1,0,0,0,0,1,2.29,2.29,49,0
+Muskerters King ,Candy,0,0,0,0,1,0,0,1,2.29,2.29,49,0
+Redbull Dragon Fruit,SportsDrink,0,0,0,0,1,0,0,1,2.29,2.29,49,0
+Twix King,Candy,0,0,0,0,1,0,0,1,2.26,2.26,49,0
+Air Head Gummies,Candy,0,0,1,0,0,0,0,1,2.19,2.19,49,0
+Mountain Dew 1L,Soda,0,0,0,1,0,0,0,1,2.19,2.19,49,0
+JL Teriyaki Steak,Snacks,0,0,0,1,0,0,0,1,2.19,2.19,49,0
+JL BBQ BeefSteak,Snacks,0,0,0,1,0,0,0,1,2.19,2.19,49,0
+Nesquik choco,KidsDrinks,0,0,0,1,0,0,0,1,2.19,2.19,49,0
+Hostess Choco Chip,Snacks,0,0,0,1,0,0,0,1,2.19,2.19,49,0
+Nestle CINN TOAST C,KidsDrinks,0,0,0,0,1,0,0,1,2.19,2.19,99,0
+Gatorade Lemon Lime,SportsDrink,0,0,0,0,1,0,0,1,2.19,2.19,99,0
+Jumex Mango Nectar,Juice,0,0,1,0,1,0,0,2,1.09,2.18,48,0
+Gatorade Blue,SportsDrink,0,0,0,0,1,0,0,1,2.09,2.09,99,0
+Tropical Fantasy,Juice,0,0,0,0,2,0,0,2,1,2,98,0
+Mountain Dew Code Red - 16 oz,Soda,0,0,1,0,0,0,0,1,1.99,1.99,99,0
+Ruffles Ched Sour ,Chips,0,0,1,0,0,0,0,1,1.99,1.99,49,0
+Ruffles Flam Hot BB,Chips,0,0,1,0,0,0,0,1,1.99,1.99,49,0
+Dr Peper Big Red 2,Soda,0,0,1,0,0,0,0,1,1.99,1.99,49,0
+7Up,Soda,0,0,1,0,0,0,0,1,1.99,1.99,49,0
+Dr Pepper Zero,Soda,0,0,1,0,0,0,0,1,1.99,1.99,49,0
+Dr Pepper Cherry Diet,Soda,0,0,1,0,0,0,0,1,1.99,1.99,49,0
+SandWich bag - candy,Candy,0,0,1,0,0,0,0,1,1.99,1.99,9,0
+Body Armor Back BE,SportsDrink,0,0,1,0,0,0,0,1,1.99,1.99,39,0
+Vita Coconut water,Juice,0,0,1,0,0,0,0,1,1.99,1.99,19,0
+Ruffles Queso,Chips,0,0,0,1,0,0,0,1,1.99,1.99,49,0
+Dr Pepper,Soda,0,0,0,1,0,0,0,1,1.99,1.99,49,0
+Gummy Bearied Tears,Candy,0,0,0,1,0,0,0,1,1.99,1.99,49,0
+BA Pine Coconut,Juice,0,0,0,1,0,0,0,1,1.99,1.99,49,0
+Leaf Peach,Juice,0,0,0,0,1,0,0,1,1.99,1.99,49,0
+Leaf Ex Sweet - pure leaf,Juice,0,0,0,0,1,0,0,1,1.99,1.99,49,0
+Leaf Tea,Juice,0,0,0,0,1,0,0,1,1.99,1.99,49,0
+Ruffles JAL RANCH,Chips,0,0,0,0,1,0,0,1,1.99,1.99,99,0
+Doritos Cool Ranch,Chips,0,0,0,0,1,0,0,1,1.99,1.99,99,0
+Plntrs Smk Almonds,Snacks,0,0,0,0,1,0,0,1,1.99,1.99,69,0
+BIG Pineapple,Other,0,0,0,0,1,0,0,1,1.99,1.99,99,0
+Dr Pepper Diet Pet N,Soda,0,0,0,0,1,0,0,1,1.99,1.99,99,0
+EFrutti ,Candy,0,0,0,0,1,0,0,1,1.99,1.99,49,0
+Body Armor Mixed,SportsDrink,0,0,0,0,1,0,0,1,1.99,1.99,99,0
+Salted Peanuts,Snacks,0,0,1,1,0,0,0,2,0.99,1.98,48,0
+Arizona Green Tea,Tea,0,0,0,1,1,0,0,2,0.99,1.98,48,0
+Topon Chico,Soda,0,0,1,0,0,0,0,1,1.89,1.89,49,0
+Welches Snacks Stra,Candy,0,0,1,0,0,0,0,1,1.89,1.89,79,0
+Hrshy Reese PNT - big,Candy,0,0,0,1,0,0,0,1,1.89,1.89,49,0
+Welches Snacks Mixe,Snacks,0,0,0,1,0,0,0,1,1.89,1.89,49,0
+Jarritos Mandarain,Other,0,0,0,1,0,0,0,1,1.89,1.89,49,0
+Hershey King Size,Candy,0,0,0,0,1,0,0,1,1.89,1.89,69,0
+Hershey Reese Put,Candy,0,0,0,0,1,0,0,1,1.89,1.89,59,0
+PIBB Extra Single,Other,0,0,1,0,0,0,0,1,1.89,1.89,99,0
+Peace Candy Shack,Candy,0,0,0,0,1,0,0,1,1.89,1.89,99,0
+Buggles Chili Chees,Snacks,0,0,1,0,0,0,0,1,1.79,1.79,49,0
+Orbit PPMT,Candy,0,0,1,0,0,0,0,1,1.79,1.79,49,0
+David Sunflower SD,Snacks,0,0,1,0,0,0,0,1,1.79,1.79,49,0
+SUNKIST,Soda,0,0,1,0,0,0,0,1,1.79,1.79,49,0
+Leaf Zero King,Juice,0,0,0,0,1,0,0,1,1.79,1.79,49,0
+GM Bugles Orig,Snacks,0,0,0,0,1,0,0,1,1.79,1.79,49,0
+5 Wint Ascent,Other,0,0,0,0,1,0,0,1,1.79,1.79,99,0
+Haribo WaterML,Candy,0,0,0,0,1,0,0,1,1.79,1.79,49,0
+Glaceau Essentia,Water,0,0,0,0,1,0,0,1,1.79,1.79,99,0
+Vitamin Water,SportsDrink,0,0,0,0,1,0,0,1,1.79,1.79,99,0
+Topps King Pop,Candy,0,0,0,0,2,0,0,2,0.89,1.78,48,0
+Laffy Taffy,Candy,0,0,4,3,0,0,0,7,0.25,1.75,93,0
+Wringly Juice FR,Juice,0,0,1,0,0,0,0,1,1.69,1.69,49,0
+Extra Spearmint,Candy,0,0,1,0,0,0,0,1,1.69,1.69,49,0
+Hershey Take 5 Stndrd,Candy,0,0,1,0,0,0,0,1,1.69,1.69,49,0
+Haribo Funtastic,Candy,0,0,1,0,0,0,0,1,1.69,1.69,89,0
+NAB Nutter Butte,Candy,0,0,1,0,0,0,0,1,1.69,1.69,49,0
+Kit Kat White ,Candy,0,0,0,1,0,0,0,1,1.69,1.69,49,0
+Hrshy Reese PNT,Candy,0,0,0,1,0,0,0,1,1.69,1.69,49,0
+Rice Krispies Cookies,Snacks,0,0,0,1,0,0,0,1,1.69,1.69,49,0
+Munch Bar,Candy,0,0,0,1,0,0,0,1,1.69,1.69,49,0
+Bic Chld GRD,Other,0,0,0,1,0,0,0,1,1.69,1.69,99,0
+Leaf Whoppers BA,Juice,0,0,0,0,1,0,0,1,1.69,1.69,49,0
+Jack Link Beef Chees,Snacks,0,0,0,0,1,0,0,1,1.69,1.69,49,0
+Wring Spearmint - big,Candy,0,0,0,0,1,0,0,1,1.69,1.69,49,0
+Hershey Kit Kat ,Candy,0,0,0,0,1,0,0,1,1.69,1.69,69,0
+Hershey Whatchamacallit's,Candy,0,0,0,0,1,0,0,1,1.69,1.69,79,0
+Hershey Peter Paul,Candy,0,0,0,0,1,0,0,1,1.69,1.69,89,0
+Hershey  Taske 5 Stndrd,Candy,0,0,0,0,1,0,0,1,1.69,1.69,79,0
+Laffy Taffy BI,Candy,0,0,0,0,1,0,0,1,1.69,1.69,49,0
+V8 Berry,Juice,0,0,1,0,0,0,0,1,1.59,1.59,49,0
+V8 Tropical,Juice,0,0,1,0,0,0,0,1,1.59,1.59,49,0
+Peach Pie,Snacks,0,0,0,1,0,0,0,1,1.59,1.59,49,0
+Propel Kiwi,SportsDrink,0,0,0,0,1,0,0,1,1.59,1.59,99,0
+MRS Bairds Hone,Snacks,0,0,0,0,1,0,0,1,1.59,1.59,99,0
+MRS Bairds Snacks,Snacks,0,0,0,0,1,0,0,1,1.59,1.59,99,0
+Coke Diet Can,Soda,0,0,0,2,0,0,0,2,0.79,1.58,98,0
+Big Red,Other,0,0,1,0,0,0,0,1,1.49,1.49,49,0
+SNAPPLE Peach,Juice,0,0,1,0,0,0,0,1,1.49,1.49,49,0
+Cheez IT 85G,Snacks,0,0,0,0,1,0,0,1,1.49,1.49,99,0
+Pringles Chedar,Snacks,0,0,0,0,1,0,0,1,1.49,1.49,59,0
+Strawberry Wafers,Chips,0,0,1,0,0,0,0,1,1.29,1.29,49,0
+Hrshy Rolo,Candy,0,0,0,1,0,0,0,1,1.29,1.29,49,0
+Little Debie PB Cream,Snacks,0,0,0,0,1,0,0,1,1.29,1.29,99,0
+Peace Sweet Lemon,Candy,0,0,0,0,1,0,0,1,1.29,1.29,49,0
+Pecan Twirls,Other,0,0,0,0,1,0,0,1,1.29,1.29,99,0
+Slim Jim BF/CHSE,Snacks,0,0,0,0,1,0,0,1,1.19,1.19,99,0
+Chips Ahoy,Snacks,0,0,0,1,0,0,0,1,1.09,1.09,49,0
+Wring Spearmint,Candy,0,0,0,2,1,0,0,3,0.35,1.05,47,0
+Job 1.25 Orange,Tobaco,0,0,1,0,0,0,0,1,0.99,0.99,99,0
+Arizona Orange,Juice,0,0,1,0,0,0,0,1,0.99,0.99,49,0
+Tummies Raspberry,Other,0,0,1,0,0,0,0,1,0.99,0.99,19,0
+Rice Krispies Double,Snacks,0,0,0,1,0,0,0,1,0.99,0.99,49,0
+Arizona Georgia Peach,Juice,0,0,0,1,0,0,0,1,0.99,0.99,49,0
+Wild Hemp Island TW,Other,0,0,0,1,0,0,0,1,0.99,0.99,49,0
+Brisk Sweet Tea,Tea,0,0,0,0,1,0,0,1,0.99,0.99,49,0
+Brisk Straw Melon,Juice,0,0,0,0,1,0,0,1,0.99,0.99,49,0
+Brisk Pink Lemonade,Juice,0,0,0,0,1,0,0,1,0.99,0.99,49,0
+Brisk Fruit Punch,Juice,0,0,0,0,1,0,0,1,0.99,0.99,49,0
+Swisher Blueberry,Tobaco,0,0,0,0,1,0,0,1,0.99,0.99,99,0
+Uncle Wally Muffins,Snacks,0,0,0,0,1,0,0,1,0.99,0.99,49,0
+Munchies,Snacks,0,0,0,0,1,0,0,1,0.89,0.89,99,0
+Kind Mini Caramel,Candy,0,0,0,0,1,0,0,1,0.89,0.89,99,0
+Cracker,Snacks,0,0,0,0,1,0,0,1,0.79,0.79,99,0
+Sunlime Cherry MiN SW,Juice,0,0,0,0,1,0,0,1,0.79,0.79,99,0
+Sour Jacks WaterML,Candy,0,0,0,3,0,0,0,3,0.25,0.75,47,0
+SABRITONES,Snacks,0,0,0,0,1,0,0,1,0.75,0.75,99,0
+Wring Big Red,Other,0,0,1,0,1,0,0,2,0.35,0.7,48,0
+Hostess Jumbo Donet,Snacks,0,0,1,0,0,0,0,1,0.69,0.69,19,0
+Doritos 28.3g,Chips,0,0,1,0,0,0,0,1,0.59,0.59,69,0
+Black&Mild UPRT,Tobaco,0,0,1,0,0,0,0,1,0.59,0.59,49,0
+Goldfish Colors,Snacks,0,0,0,1,0,0,0,1,0.59,0.59,49,0
+Funyund,Other,0,0,0,1,0,0,0,1,0.59,0.59,49,0
+Little Debie Chco chi,Snacks,0,0,0,1,0,0,0,1,0.5,0.5,19,0
+WW Sun Paper,Other,0,0,0,0,1,0,0,1,0.5,0.5,99,0
+,Candy,0,0,0,0,0,0,0,0,0,0,0,0
+M & M Peanut,Candy,0,0,0,0,0,0,0,0,1.69,0,50,0
+Pop Rock,Candy,0,0,0,0,0,0,0,0,1.29,0,100,0
+Total,,,,,,,,,,,2345.34,,

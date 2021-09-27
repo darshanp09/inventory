@@ -14,6 +14,7 @@ public class Pro {
     private int ProductId;
     private String productScanCode;
     private String productName;
+    private String productCategory;
     private int sunday;
     private int monday;
     private int tuesday;

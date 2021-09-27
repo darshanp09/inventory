@@ -41,6 +41,27 @@
             <form:input path="productScanCode" id="ScanCode" class="form-Control"/>
         </div>
 
+            <div class="form-group">
+                <form:select path="productCategory">
+                    <form:option value="Candy" label="Candy"/>
+                    <form:option value="Snacks" label="Snacks"/>
+                    <form:option value="Soda" label="Soda"/>
+                    <form:option value="VendingMachine" label="VendingMachine"/>
+                    <form:option value="SportsDrink" label="SportsDrink"/>
+                    <form:option value="KidsDrinks" label="KidsDrinks"/>
+                    <form:option value="E-cig" label="E-cig"/>
+                    <form:option value="Tobaco" label="Tobaco"/>
+                    <form:option value="Food" label="Food"/>
+                    <form:option value="Chips" label="Chips"/>
+                    <form:option value="Coffee" label="Coffee"/>
+                    <form:option value="Tea" label="Tea"/>
+                    <form:option value="Juice" label="Juice"/>
+                    <form:option value="Water" label="Water"/>
+                    <form:option value="Ice-Cream" label="Ice-Cream"/>
+                    <form:option value="Medicine" label="Medicine"/>
+                    <form:option value="Other" label="Other"/>
+                </form:select>
+            </div>
 
         <br><br>
         <input type="submit" value="submit" class="btn btn-default">

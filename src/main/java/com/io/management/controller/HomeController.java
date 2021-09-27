@@ -93,7 +93,7 @@ public class HomeController {
 
     @RequestMapping(value = "/searchProduct", method = RequestMethod.GET)
     public String viewProduct(@RequestParam("search") String productName, Model model) throws IOException {
-        String productSearchName = productName;
+        String productSearchName = productName.trim();
         List<Product> products = productDao.getProductBySearch(productSearchName);
         model.addAttribute("products",products);
         return "searchProduct";
@@ -117,4 +117,18 @@ public class HomeController {
         }
         return "redirect:/";
     }
+
+
+    @RequestMapping("/print")
+    public String getReportPrint(){
+        WriteDataToCsv writeDataToCsv = new WriteDataToCsv();
+        List<Pro> productList = productDao.getAllReportProduct();
+        try {
+            writeDataToCsv.writeDataToCsvOnly(productList);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return "redirect:/";
+    }
+
 }

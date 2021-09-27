@@ -11,6 +11,7 @@ public class Product {
     private int ProductId;
     private String productScanCode;
     private String productName;
+    private String productCategory;
     private int sunday;
     private int monday;
     private int tuesday;
@@ -36,10 +37,11 @@ public class Product {
     public Product() {
     }
 
-    public Product(int productId, String productScanCode, String productName, int sunday, int monday, int tuesday, int wednesday, int thursday, int friday, int saturday, int quantitySold, double price, double totalProductSale, int quantityLeft, double basePrice, double baseMinusSellingPrice, int quantity, String searchText, String dayOfWeek) {
+    public Product(int productId, String productScanCode, String productName, String productCategory, int sunday, int monday, int tuesday, int wednesday, int thursday, int friday, int saturday, int quantitySold, double price, double totalProductSale, int quantityLeft, double basePrice, double baseMinusSellingPrice, int quantity, String searchText, String dayOfWeek) {
         ProductId = productId;
         this.productScanCode = productScanCode;
         this.productName = productName;
+        this.productCategory = productCategory;
         this.sunday = sunday;
         this.monday = monday;
         this.tuesday = tuesday;
@@ -80,6 +82,14 @@ public class Product {
 
     public void setProductName(String productName) {
         this.productName = productName;
+    }
+
+    public String getProductCategory() {
+        return productCategory;
+    }
+
+    public void setProductCategory(String productCategory) {
+        this.productCategory = productCategory;
     }
 
     public int getSunday() {

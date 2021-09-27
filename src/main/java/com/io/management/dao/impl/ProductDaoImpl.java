@@ -36,11 +36,15 @@ public class ProductDaoImpl implements ProductDao {
 
     public List<Product> getAllProducts() {
         Session session = sessionFactory.getCurrentSession();
-        Query query = session.createQuery("from products ORDER BY quantitySold DESC");
+        /*Query query = session.createQuery("from products ORDER BY quantitySold DESC");
         List<Product> products = query.list();
-        session.flush();
+        session.flush();*/
 
-        return products;
+        String sql1 = "SELECT * FROM products p ORDER BY p.quantitySold DESC LIMIT 30";
+        SQLQuery query = session.createSQLQuery(sql1);
+        query.addEntity(Product.class);
+        List<Product> results = query.list();
+        return results;
     }
 
     public List<Pro> getAllReportProduct() {
